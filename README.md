@@ -1,3 +1,4 @@
 # datalemur-solutions
-My solutions to different DataLemur problems
-Visit their site and try to solve them all: https://datalemur.com/
+My solutions to different DataLemur problems.
+
+Visit [their site](https://datalemur.com/) and try to solve them all!
